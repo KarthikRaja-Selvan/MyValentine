@@ -59,7 +59,7 @@
                             ,
                             className: " bg-red-500 hover:bg-red-700 text-white font-bold py-2 px-4 rounded",
                             children: 0 === e ? "No" : (()=>{
-                                let t = ["No", "Are you sure?", "Really sure?", "Are you positive???", "Pookie please", "Just think about it", "If you say no, I'll be very sad", "I'll be very very sad", "I'll be very very very sad", "I'll be very very very very sad", "Ok fine, I'll stop asking...", "Just kidding, PLEASE SAY YES", "I'll be very very very very very sad", "You're breaking my heart ;(", "OIII", "Yov"];
+                                let t = ["No", "Are you sure?", "Really sure Jay?", "Pookie please", "Just think about it", "Don't press NO again", "I SAID DON'T!!!", "OIII", "Venam...", "Valikuthu...", "Alunthuruven ;(", "Nejama Alunthuruven di!!!", "Oru alavukkuthaan body thaangum...", "Ok fine, I'll stop asking...", "PLEASE.. JUST SAY YES!!!", "THIS IS SOOO CRUEL!!", "Babe, You're breaking my heart ;(", "I'll buy you flowers everyday", "I'll treat you with Ice cream everyday..", "I'll send even more cute dog pics...", "Heck, I'll even sell my sister into slavery!!", "OH C'MON!!, Seriously?", "I LITERALLY SOLD MY SISTER INTO SLAVERY! FOR U!", "You know what? Let's start again.."];
                                 return t[e % t.length]
                             }
                             )()

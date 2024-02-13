@@ -28,7 +28,7 @@
                     }), (0,
                     r.jsx)("div", {
                         className: "text-4xl font-bold my-4 text-center",
-                        children: "Ok yay!!!"
+                        children: "Awww... I love you too!!!"
                     })]
                 }) : (0,
                 r.jsxs)(r.Fragment, {
